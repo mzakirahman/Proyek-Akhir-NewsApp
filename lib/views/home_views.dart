@@ -16,7 +16,7 @@ class HomeView extends StatelessWidget {
             children: [
               ListTile(
                 title: Text(
-                  "WELCOME",
+                  "Simple App NewsApi",
                   textAlign: TextAlign.end,
                   style: kNonActiveTabStyle,
                 ),
