@@ -1,3 +1,4 @@
+![4](https://user-images.githubusercontent.com/80248982/124970837-a085de80-e052-11eb-830b-0ace1feafe75.png)
 # news_app
 
 Aplikasi ini adalah aplikasi Berita yang dibuat oleh anak Politeknik Negeri Bengkalis. aplikasi ini dibangun menggunakan newsapi.org yang menggunakan bahasa pemograman dart dan menggunakan freamwork flutter. dan tujuan membuat aplikasi ini di bangun untuk menyelesaikan tugas akhir dari mata kuliah Pengembangan Aplikasi Mobile.
