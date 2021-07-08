@@ -1,6 +1,6 @@
 # news_app
 
-A new Flutter project.
+Aplikasi ini adalah aplikasi Berita yang dibuat oleh anak Politeknik Negeri Bengkalis. aplikasi ini dibangun menggunakan newsapi.org yang menggunakan bahasa pemograman dart dan menggunakan freamwork flutter. dan tujuan membuat aplikasi ini di bangun untuk menyelesaikan tugas akhir dari mata kuliah Pengembangan Aplikasi Mobile.
 
 ## Getting Started
 
